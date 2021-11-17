@@ -26,3 +26,7 @@ Cada tag tiene un valor numerico que Unity reconoce y asigna a un boton en el ju
 Cada tarjeta puede ser accionada en Unity para ingresar a una nueva escena (video). De esta forma se pueden interconectar multiples videos, 
 los cuales pueden presentarse en loop, es decir no progresan hasta que el usuario ejecute una nueva opción, o con un limite de tiempo,
 si el usuario no ejecuta ninguna acción, se ejecuta una de ellas por defecto.
+
+EJEMPLO DE SONIDO Y LUCES EN SOFTWARE IDE XOD.
+Mediante el software XOD es posible crear un código para las luces RGB y el sonido del modulo YX5300. Este código debe ser traducido a Arduino IDE.
+
