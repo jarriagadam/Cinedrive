@@ -1,0 +1,36 @@
+BOTONES:
+BOTON ROJO ---> A6
+BOTON AMARILLO ---> A7
+BOTON VERDE ---> A8
+BOTON AZUL ---> A9
+------------------
+TOGGLE SWITCHES COLORES:
+SWITCH ROJO ---> D2
+SWITCH NARANJO ---> D3
+SWITCH VERDE ---> D4
+SWITCH AZUL ---> D5
+-------------------
+ROTARY ENCODER: 
+PIN DT ---> D7
+PIN CLK ---> D6
+PIN SW ---> D8
+--------------------
+NEOPIXEL RGB:
+NÚMERO DE LEDS ---> 16
+PIN DEL ARO DE LUZ ---> D10
+------------------------------
+LLAVE INTERRUPTOR:
+PIN LLAVE ---> D9
+-----------------------------
+JOYSTICK:
+PIN VRx ---> A2
+PIN VRy ---> A3
+PIN SW ---> D11
+---------------------------------
+TAGS TARJETAS RFID-PN532:
+RFID1 = "9A 1E 25 28";
+RFID2 = "3F 90 1E 29";
+RFID3 = "6A E7 23 D9";
+RFID4 = "24 FD 15 41";
+RFID5 = "F2 75 73 85";
+--------------------------------------
