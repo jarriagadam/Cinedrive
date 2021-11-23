@@ -1,7 +1,7 @@
 # Cinedrive
 UPDATE 23 NOVIEMBRE
 Códigos actuales:
-1-Código RR Control: Código para convertir el arduino en un gamepad. Este es el código principal, aquí deben ir integrados todos.
+1-Código RR Controller MASTER: Código para convertir el arduino en un gamepad. Este es el código principal, aquí deben ir integrados todos.
 
 2-MP3 Serial Player: Código del modulo reproductor MP3. Al accionar un botón, interruptor o tarjeta, se acciona una luz RGB y un archivo especifico de sonido almacenado en la tarjeta micro sd
 *IMPORTANTE:Hay un proyecto hecho en el programa XOD IDE, que pude cargar al Arduino que ya logra activar las luces y sonidos presionando un pulsador o interruptor. La idea sería hacer lo mismo pero en Arduino IDE con el código de YX5300 Mp3 serial Player.
