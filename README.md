@@ -7,7 +7,7 @@ Códigos actuales:
 *IMPORTANTE:Hay un proyecto hecho en el programa XOD IDE, que pude cargar al Arduino que ya logra activar las luces y sonidos presionando un pulsador o interruptor. La idea sería hacer lo mismo pero en Arduino IDE con el código de YX5300 Mp3 serial Player.
 Si te sirve también puedes abrir el proyecto XOD y ver como están configurados los botones.
 
-3-Lector RFID (ReadTag): falta integrar con YX5300 Mp3 Serial Player. Al reconocer una tarjeta debe accionar una luz RGB y un archivo de sonido almacenado en la tarjeta.
+3-Lector RFID (ReadTag): falta integrar con YX5300 Mp3 Serial Player. Al reconocer una tarjeta debe accionar una luz RGB y un archivo especifico de sonido almacenado en la tarjeta.
 
 4-Rotary Led: Código de encoder rotatorio (perilla) y luces RGB. Al girar la perilla se controlan los leds del aro de luz. Al presionar el botón de la perilla cambia la animación de las luces. (Si se puede integrar un sonido al igual que los otros códigos mejor).
 
