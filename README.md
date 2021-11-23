@@ -4,8 +4,8 @@ Códigos actuales:
 1-Código RR Controller MASTER: Código para convertir el arduino en un gamepad. Este es el código principal, aquí deben ir integrados todos.
 
 2-MP3 Serial Player: Código del modulo reproductor MP3. Al accionar un botón, interruptor o tarjeta, se acciona una luz RGB y un archivo especifico de sonido almacenado en la tarjeta micro sd
-*IMPORTANTE:Hay un proyecto hecho en el programa XOD IDE, que pude cargar al Arduino que ya logra activar las luces y sonidos presionando un pulsador o interruptor. La idea sería hacer lo mismo pero en Arduino IDE con el código de YX5300 Mp3 serial Player.
-Si te sirve también puedes abrir el proyecto XOD y ver como están configurados los botones.
+*IMPORTANTE:Hay un proyecto hecho en el programa XOD IDE (Sonido y luces Astory 3.xodball), que pude cargar al Arduino que ya logra activar las luces y sonidos presionando un pulsador o interruptor. La idea sería hacer lo mismo pero en Arduino IDE con el código de YX5300 Mp3 serial Player.
+Si te sirve también te dejo el código que XOD permite exportar que supuestamente sirve en Arduino IDE (Sonido_y_luces_Astory_3_importado_desde_XOD_a_Arduino_IDE.ino)
 
 3-Lector RFID (ReadTag): falta integrar con YX5300 Mp3 Serial Player. Al reconocer una tarjeta debe accionar una luz RGB y un archivo especifico de sonido almacenado en la tarjeta.
 
